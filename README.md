@@ -1,7 +1,7 @@
 # bad-flappy-bird
 ![CPP](https://ziadoua.github.io/m3-Markdown-Badges/badges/C++/c++1.svg)
 
-An attempt to make flappy bird without any game engine using C++ and ![https://www.sfml-dev.org/index.php](SFML).
+An attempt to make flappy bird without any game engine using C++ and [https://www.sfml-dev.org/index.php](SFML).
 
 ### Compile
 `
